@@ -1,6 +1,6 @@
 # Hey, bienvenue sur le GITHUB de Just'iRox.
 
-![image alt](https://media.discordapp.net/attachments/1238212794042683478/1276155124108099664/Design_sans_titre_22.png?ex=66c87f93&is=66c72e13&hm=df4c288fe111240c4ffdeed33dbc741d0c5ef93db8a65e60eeb973f9f6ffe141&=&format=webp&quality=lossless&width=1440&height=480)
+![image alt](https://i.goopics.net/pd6vnr.png)
 
 
 ## A propos de moi.
@@ -21,16 +21,10 @@ Lua, JavaScript, HTML/CSS, SQL, et bien d'autres.
 
 ## Mes Projets
 
-### Fantasia RP V4
+### NouvelleFrance™ Rôleplay
 
 Fantasia est mon serveur RP FiveM américain développé par moi et un amis.
 - **Discord :** [Lien discord](https://discord.gg/qcvVfMeEWw)
-
-### JI Dev
-
-JI Dev est mon projet où je pourrais partager et vendre mes scipt et autre...
-- **Discord :** Je suis entrain de le faire...
-- **Tebex :** Je suis entrain de le faire...
 
 
 ## Mes réseaux sociaux
