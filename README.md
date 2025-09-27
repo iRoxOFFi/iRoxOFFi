@@ -23,7 +23,7 @@ Lua, JavaScript, HTML/CSS, SQL, et bien d'autres.
 
 ### NouvelleFrance™ Rôleplay
 
-Fantasia est mon serveur RP FiveM américain développé par moi et un amis.
+**NouvelleFrance** est mon serveur RP FiveM français développé par moi et un amis.
 - **Discord :** [Lien discord](https://discord.gg/dN3HZXAezc)
 
 
