@@ -42,7 +42,7 @@
 
 ###
 
-<p align="left">RiverCore est mon projet de groupe de développement avec un ami.<br>- Discord : [Lien discord](https://discord.gg/fEPvaMyCrr)</p>
+<p align="left">RiverCore est mon projet de groupe de développement avec un ami.<br>· Discord : https://discord.gg/fEPvaMyCrr</p>
 
 ###
 
