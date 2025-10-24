@@ -5,7 +5,7 @@
 
 ## A propos de moi.
 
-👋 Salut, je suis **Just'iRox** ! Passionné par le développement et créateur dans l'âme, je me spécialise dans le développement pour **FiveM**. Je possède et gère mon propre serveur FiveM ainsi qu'un serveur dédié au développement, où je mets en œuvre mes idées et mes compétences pour créer des expériences immersives pour la communauté.
+👋 Salut, je suis **IROX²** ! Passionné par le développement et créateur dans l'âme, je me spécialise dans le développement pour **FiveM**. Je possède et gère mon propre serveur FiveM ainsi qu'un serveur dédié au développement, où je mets en œuvre mes idées et mes compétences pour créer des expériences immersives pour la communauté.
 
 🚀 Je suis constamment à la recherche de nouveaux défis et d'opportunités pour améliorer mes compétences en programmation et en gestion de serveurs. Mon objectif est de construire des environnements de jeu uniques et d'offrir des services de qualité à la communauté FiveM.
 
@@ -19,12 +19,12 @@ Lua, JavaScript, HTML/CSS, SQL, et bien d'autres.
 
 
 
-## Mes Projets Rôleplay
+## Mes Projets
 
-### NouvelleFrance™ Rôleplay
+### RiverCore™ · Fivem Dev
 
-**NouvelleFrance** est mon serveur RP FiveM français développé par moi et un amis.
-- **Discord :** [Lien discord](https://discord.gg/dN3HZXAezc)
+**RiverCore** est mon projet de groupe de développement avec un ami.
+- **Discord :** [Lien discord](https://discord.gg/fEPvaMyCrr)
 
 
 ## Mes réseaux sociaux
