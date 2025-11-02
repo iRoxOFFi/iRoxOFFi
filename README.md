@@ -16,6 +16,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/iRoxOFFi/iRoxOFFi/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="center">Langages & Technologies</h2>
 
 ###
@@ -54,6 +58,16 @@
   <a href="https://www.youtube.com/@iroxoffi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
+</div>
+
+###
+
+<h2 align="center">Mes Statistiques</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iRoxOFFi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=fr&hide_border=false&order=1&custom_title=Mes%20Stats" height="140" alt="stats graph"  />
 </div>
 
 ###
