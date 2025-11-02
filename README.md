@@ -12,11 +12,7 @@
 
 ###
 
-<p align="left">👋 Salut, je suis **IROX²** ! Passionné par le développement et créateur dans l'âme, je me spécialise dans le développement pour **FiveM**. Je possède et gère mon propre serveur FiveM ainsi qu'un serveur dédié au développement, où je mets en œuvre mes idées et mes compétences pour créer des expériences immersives pour la communauté.<br><br>🚀 Je suis constamment à la recherche de nouveaux défis et d'opportunités pour améliorer mes compétences en programmation et en gestion de serveurs. Mon objectif est de construire des environnements de jeu uniques et d'offrir des services de qualité à la communauté FiveM.<br><br>🔗 N'hésite pas à explorer mes projets ou à me contacter si tu as des idées de collaboration ou des questions !</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/iRoxOFFi/iRoxOFFi/output/snake.svg" alt="Snake animation" />
+<p align="left">👋 Salut, je suis IROX² ! Passionné par le développement et créateur dans l'âme, je me spécialise dans le développement pour FiveM. Je possède et gère mon propre serveur FiveM ainsi qu'un serveur dédié au développement, où je mets en œuvre mes idées et mes compétences pour créer des expériences immersives pour la communauté.<br><br>🚀 Je suis constamment à la recherche de nouveaux défis et d'opportunités pour améliorer mes compétences en programmation et en gestion de serveurs. Mon objectif est de construire des environnements de jeu uniques et d'offrir des services de qualité à la communauté FiveM.<br><br>🔗 N'hésite pas à explorer mes projets ou à me contacter si tu as des idées de collaboration ou des questions !</p>
 
 ###
 
@@ -46,7 +42,7 @@
 
 ###
 
-<p align="left">**RiverCore** est mon projet de groupe de développement avec un ami.<br>- **Discord :** [Lien discord](https://discord.gg/fEPvaMyCrr)</p>
+<p align="left">RiverCore est mon projet de groupe de développement avec un ami.<br>• Discord : https://discord.gg/fEPvaMyCrr</p>
 
 ###
 
